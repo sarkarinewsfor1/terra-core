@@ -1,6 +1,15 @@
 # Changelog
 
 ## Unreleased
+* Added
+  * Added `aria-label` to list options.
+
+* Changed
+  * Changed `hideRequired`, `isLabelHidden`, `onChange` props to private.
+  * Updated aria attributes.
+
+* Fixed
+  * Screen reader response for single-select.
 
 ## 6.37.0 - (January 9, 2023)
 

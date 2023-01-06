@@ -9,7 +9,7 @@
   * Updated aria attributes.
 
 * Fixed
-  * Screen reader response for single-select.
+  * Screen reader responses for single-select.
 
 ## 6.37.0 - (January 9, 2023)
 
